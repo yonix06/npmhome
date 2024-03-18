@@ -1,0 +1,79 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    padding: 0;
+    margin: 0;
+    --border-color: rgb(75,75,75);
+    --highlight-color: rgb(195, 28, 195);
+    user-select: none;
+}
+body {
+    background-color: rgb(10,10,10);
+}
+.host-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid var(--border-color);
+    border-radius: 10px;
+    background-color: rgb(20,20,20);
+}
+.host-container:hover {
+    border: 1px solid white;
+    cursor: pointer;
+}
+.hostname {
+    color: white;
+    margin-left: 5px;
+}
+.domain {
+    color: var(--highlight-color); 
+}
+.label {
+    padding-right: 10px;
+}
+.forwardHostPort {
+    color: var(--border-color); 
+    margin-left: 5px;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+#main {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+i {
+    color: white;
+}
+.controlContainer {
+    padding: 5px;
+    margin: 5px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    min-width: 22px;
+}
+#header {
+    color: var(--border-color);
+    padding: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: flex-end;
+    border-bottom: 1px solid var(--border-color);
+}
+#serverHost {
+    color: var(--highlight-color);
+}
+.link-seperator {
+    color: var(--border-color);
+    margin: 10px;    
+}
