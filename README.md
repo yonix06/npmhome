@@ -67,3 +67,7 @@ This project is provided free and open source.
 No warranty is supplied and I cannot guarantee support.
 
 There may be bugs and other issues, as I have not tested the code extensively, if you come accross anything please log an issue [here](https://github.com/billettg/npmhome/issues).
+
+## Support
+
+<a href="https://www.buymeacoffee.com/app/billettg" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
