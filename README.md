@@ -2,7 +2,7 @@
 
 ## Info
 
-Enumerates all Nginx Proxy Manager proxy hosts using the NPM API, and renders them as clickable links, with optional information on forwarding.
+Automagically create a home page for your NPM proxy hosts!
 
 ## Instructions
 
