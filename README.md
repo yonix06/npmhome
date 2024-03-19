@@ -4,7 +4,7 @@
 
 ## Info
 
-Self-hosted and fully automated dashboard for your NPM proxy hosts!
+Self-hosted and fully automated dashboard for your Nginx Proxy Manager proxy hosts!
 
 ## Instructions
 
