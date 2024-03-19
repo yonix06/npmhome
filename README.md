@@ -55,9 +55,8 @@ Run the container with ```docker-compose up -d```
 You can also git clone this project and start the http-server for testing:
 
 ```
-mkdir npmhome
-cd npmhome
 git clone https://github.com/billettg/npmhome.git
+cd npmhome
 npx http-server -p <your port>
 ```
 
