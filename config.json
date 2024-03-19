@@ -1,8 +1,0 @@
-{
-    "settings": {
-        "serverHost" : "192.168.0.254",
-        "serverPort" : 81,
-        "email" : "billettg@gmail.com",
-        "password" : "kimmeridge"
-    }
-}
