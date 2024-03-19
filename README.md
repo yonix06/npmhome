@@ -1,6 +1,6 @@
 ![image](https://github.com/billettg/npmhome/assets/3407237/b260331a-7023-4003-8ca8-b3d4f841c979)
 
-# <center> npmhome </center>
+# <center>npmhome</center>
 
 ## Info
 
