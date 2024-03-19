@@ -60,12 +60,10 @@ cd npmhome
 npx http-server -p <your port>
 ```
 
-## Bugs and other info
+## Disclaimer
 
-This project is not thoroughly tested, use it at your own risk.
+This project is provided free and open source.
 
-This project is open source, feel free to fork it and amend it as you choose.
+No warranty is supplied and I cannot guarantee support.
 
-Note that the dark mode toggle is not yet implemented.
-
-I do plan to add some additional functionality, redundancy, and security improvements in future. Feel free to submit any issues but as I work on these projects in my spare time, I may not respond quickly.
+There may be bugs and other issues, as I have not tested the code extensively, if you come accross anything please log an issue [here]([url](https://github.com/billettg/npmhome/)https://github.com/billettg/npmhome/issues).
