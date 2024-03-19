@@ -1,5 +1,7 @@
 ![image](https://github.com/billettg/npmhome/assets/3407237/b260331a-7023-4003-8ca8-b3d4f841c979)
 
+Enumerates all Nginx Proxy Manager proxy hosts using the NPM API, and renders them as clickable links.
+
 Create a config.json file with the following content:
 
 ```
