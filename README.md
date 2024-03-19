@@ -24,7 +24,7 @@ Create a config.json file with the following content:
 
 Run Docker command to create the container:
 
-```docker run -d --name npmhome -v /path/to/your/config.json:/app/config.json -p 1234:1234 npmhome```
+```docker run -d --name npmhome -v /path/to/your/config.json:/app/config.json -p 1234:1234 billettg/npmhome```
 
 Profit.
 
