@@ -34,7 +34,7 @@ You can also git clone this project and start the http-server for testing:
 mkdir npmhome
 cd npmhome
 git clone https://github.com/billettg/npmhome.git
-npx http-server -p 1234
+npx http-server -p <your port>
 ```
 
 This project is open source, feel free to fork it and amend it as you choose.
