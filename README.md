@@ -26,6 +26,22 @@ Run Docker command to create the container:
 
 ```docker run -d --name npmhome -v /path/to/your/config.json:/app/config.json -p 1234:1234 billettg/npmhome```
 
+Compose:
+
+```
+services:
+    npmhome:
+        image: billettg/npmhome
+        container_name: npmhome
+        volumes:
+            - /srv/docker/npmhome/config.json:/app/config.json
+        ports:
+            - 1234:1234
+        restart: unless-stopped
+```
+
+Run the container with ```docker-compose up -d```
+
 Profit.
 
 You can also git clone this project and start the http-server for testing:
