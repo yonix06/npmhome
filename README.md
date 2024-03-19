@@ -66,11 +66,15 @@ npx http-server -p <your port>
 
 This project is provided free and open source.
 
-No warranty is supplied and I cannot guarantee support.
-
-There may be bugs and other issues, as I have not tested the code extensively, if you come accross anything please log an issue [here](https://github.com/billettg/npmhome/issues).
+No warranty is supplied and I cannot guarantee support responses or timescales.
 
 ## Support
+
+Please log any issues [here](https://github.com/billettg/npmhome/issues).
+
+This project is currently under active development and I plan to implement features, and bug fix when I have time to do so.
+
+## Donations
 
 If you like this project then please consider supporting me by making a donation via the link below:
 
