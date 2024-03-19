@@ -2,7 +2,7 @@
 
 ## Info
 
-Automagically create a home page for your NPM proxy hosts!
+Self-hosted and fully automated dashboard for your NPM proxy hosts!
 
 ## Instructions
 
