@@ -70,4 +70,6 @@ There may be bugs and other issues, as I have not tested the code extensively, i
 
 ## Support
 
+If you like this project then please consider supporting me by making a donation via the link below:
+
 <a href="https://www.buymeacoffee.com/billettg" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
