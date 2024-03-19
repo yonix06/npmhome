@@ -66,4 +66,4 @@ This project is provided free and open source.
 
 No warranty is supplied and I cannot guarantee support.
 
-There may be bugs and other issues, as I have not tested the code extensively, if you come accross anything please log an issue [here]([url](https://github.com/billettg/npmhome/)https://github.com/billettg/npmhome/issues).
+There may be bugs and other issues, as I have not tested the code extensively, if you come accross anything please log an issue [here](https://github.com/billettg/npmhome/issues).
