@@ -61,11 +61,11 @@ git clone https://github.com/billettg/npmhome.git
 npx http-server -p <your port>
 ```
 
-This project is open source, feel free to fork it and amend it as you choose.
-
 ## Bugs and other info
 
-The project is not thoroughly tested, use it at your own risk.
+This project is not thoroughly tested, use it at your own risk.
+
+This project is open source, feel free to fork it and amend it as you choose.
 
 Note that the dark mode toggle is not yet implemented.
 
